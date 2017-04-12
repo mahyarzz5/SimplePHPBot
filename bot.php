@@ -142,5 +142,5 @@ else
 SendMessage($chat_id,"*Command Not Found*");
 }
 
-
+ddddddddddddddddddddd
 ?>
